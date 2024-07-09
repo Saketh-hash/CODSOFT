@@ -54,3 +54,4 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 ## Acknowledgments
 The Contact Book application was developed as part of a project for CodSoft.
 Special thanks to the Python community for their valuable libraries and resources.
+
