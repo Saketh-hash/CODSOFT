@@ -1,5 +1,5 @@
 # CODSOFT
-## TASK 1 - Contact Book Application
+## TASK 1: Contact Book Application
 This repository contains a Python-based Contact Book application developed as a project for CodSoft.
 
 ## Features
@@ -63,6 +63,24 @@ This project implements a simple Rock-Paper-Scissors game using Python and 'tkin
 - Play Again: Allows the user to play multiple rounds and resets the game for each new round.
 - Make sure you have Python installed on your system. You can download Python from [python.org](https://www.python.org/).
 
+
+# TASK 3: Simple Calculator
+
+This Simple Calculator application was developed using Python's `tkinter` library. The calculator performs basic arithmetic operations including addition, subtraction, multiplication, and division. It also includes a reset functionality to clear the inputs and the result.
+
+## Features
+
+- Addition: Adds two numbers.
+- Subtraction: Subtracts the second number from the first number.
+- Multiplication: Multiplies two numbers.
+- Division: Divides the first number by the second number with error handling for division by zero.
+- Reset: Clears the input fields and resets the result label.
+- Error Handling: Handles invalid input characters and displays an error message if the inputs are invalid numbers.
+
+## Requirements
+
+- Python 3.x
+- `tkinter` library (comes pre-installed with Python)
 
 
 ## Acknowledgments
