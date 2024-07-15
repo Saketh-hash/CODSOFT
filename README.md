@@ -83,6 +83,20 @@ This Simple Calculator application was developed using Python's `tkinter` librar
 - `tkinter` library (comes pre-installed with Python)
 
 
+# TASK 4: To-Do List Application
+
+This project is a simple To-Do List application developed in Python using 'tkinter'.
+
+## Features
+- Add, update, delete, and clear tasks.
+- User-friendly graphical interface using 'tkinter'.
+
+## Requirements
+- Python 3.x
+- tkinter (usually included with Python distributions
+
+
+
 ## Acknowledgments
 All these tasks were developed as part of a project for CodSoft.
 Special thanks to the Python community for their valuable libraries and resources.
