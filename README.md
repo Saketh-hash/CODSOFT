@@ -78,7 +78,6 @@ This Simple Calculator application was developed using Python's `tkinter` librar
 - Error Handling: Handles invalid input characters and displays an error message if the inputs are invalid numbers.
 
 ## Requirements
-
 - Python 3.x
 - `tkinter` library (comes pre-installed with Python)
 
