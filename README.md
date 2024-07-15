@@ -1,5 +1,5 @@
 # CODSOFT
-## TASK 1: Contact Book Application
+# TASK 1: Contact Book Application
 This repository contains a Python-based Contact Book application developed as a project for CodSoft.
 
 ## Features
@@ -81,6 +81,20 @@ This Simple Calculator application was developed using Python's `tkinter` librar
 
 - Python 3.x
 - `tkinter` library (comes pre-installed with Python)
+
+
+# TASK 4: To-Do List Application
+
+This project is a simple To-Do List application developed in Python using 'tkinter'.
+
+## Features
+- Add, update, delete, and clear tasks.
+- User-friendly graphical interface using 'tkinter'.
+
+## Requirements
+- Python 3.x
+- tkinter (usually included with Python distributions
+
 
 
 ## Acknowledgments
