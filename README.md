@@ -1,5 +1,5 @@
 # CODSOFT
-## TASK 1: Contact Book Application
+# TASK 1: Contact Book Application
 This repository contains a Python-based Contact Book application developed as a project for CodSoft.
 
 ## Features
